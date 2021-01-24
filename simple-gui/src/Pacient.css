@@ -1,0 +1,54 @@
+body{
+  margin: 20px;
+}
+.h2{
+  background-color: royalblue;
+  color: aliceblue;
+  padding: 20px 0px;
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 0px;
+}
+.form {
+  width: 100%;
+  float: center;
+  text-align: center;
+  border: 1px solid gray;
+  padding: 16px 0px;
+  background-color: #eeeeee;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.labelForm {
+  width: 30%;
+  display: block;
+  float: left;
+  clear: both;
+}
+
+.inputForm {
+  display: block;
+  float: center;
+}
+
+#btnCancelForm{
+  display: block;
+  float: center;
+}
+
+#pacientDetails{
+  margin: 30px;
+  color: rgb(55, 0, 255);
+}
+#pacientScheduled{
+  background-color: rgb(96, 176, 180);
+  margin: 5px;
+  width: 35%;
+  padding: 10px;
+}
+
+#inputButtonForm{
+  display: flex;
+  float: left;
+}

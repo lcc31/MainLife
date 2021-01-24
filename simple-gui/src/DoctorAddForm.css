@@ -1,0 +1,11 @@
+.form{
+  float: center;
+  width: 33%;
+}
+#forms{
+  display: flex;
+  float: center;
+  margin: 10px 0px;
+  background-color: #476ce6;
+  padding: 15px;
+}

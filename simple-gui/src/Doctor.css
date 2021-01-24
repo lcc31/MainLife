@@ -1,0 +1,23 @@
+h1 {
+  background-color: navy;
+  color: aliceblue;
+  padding: 16px;
+  text-align: center;
+}
+table {
+  width: 100%;
+  float: center;
+  border-collapse: collapse;
+  text-align: center;
+  /* margin-top: 10px; */
+}
+td{
+  width: 33%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+td, th {
+  padding: 7px 6px;
+}
+.buttons{
+float: center;
+}

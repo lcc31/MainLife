@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    color:yellow;
+}
+.headerMenu a{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color:yellow;
+    font-size: 12px;
+    letter-spacing: 1.2px;
+    padding: 7px;
+    border: 1px solid blue;
+    border-radius: 10%;
+}
+.headerMenu a:hover{
+    color: greenyellow;
+}
